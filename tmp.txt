@@ -1,0 +1,13 @@
+execute.c
+hello
+Makefile
+smsh2
+smsh2.c
+smsh3
+smsh3.c
+smsh4
+smsh4.c
+smsh.h
+splitline2.c
+splitline.c
+tmp.txt
