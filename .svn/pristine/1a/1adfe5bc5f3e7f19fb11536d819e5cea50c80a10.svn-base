@@ -1,0 +1,7 @@
+all: smsh1
+
+part1:
+	gcc *.c -o smsh2
+
+clean:
+	rm -f smsh2
